@@ -1,0 +1,13 @@
+README that includes your first name and last name in the first line,
+partner’s first name and last name in the second line (if any), an empty line and then contact
+information, a brief explanation of the lab. Include information identifying what class and lab
+number your files represent.), and one sentence explaining the contents of any other files you
+
+
+MERCY SALOME JEMUTAI
+
+mjemutai@u.rochester.edu
+
+Lab covers generics and how to convert any non generic method to a generic one
+
+We have 3 files: Lab2.java, README, and data.txt
